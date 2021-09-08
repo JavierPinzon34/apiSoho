@@ -6,6 +6,9 @@
 # clone repository
 $ git clone https://github.com/JavierPinzon34/apiSoho.git
 
+# cd folder
+$ cd apiSoho
+
 # install dependencies
 $ composer install
 
